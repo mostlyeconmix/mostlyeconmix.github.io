@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-Online resources thar may be useful for economists.
+Online resources that may be useful for economists.
